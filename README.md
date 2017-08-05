@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Clown24/My-Games/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Clown24/My-Games/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<body>
+<style>
+#nav {
+    line-height:30px;
+    background-color:gray;
+    height:250px;
+    width:150px;
+    float:left;
+    text-allign:left;
+    padding:5px;	      
+}
+#nav { 
+    width:150px; 
+    height: 250px; 
+    border: 1px solid #D4CD49; 
+    position:fixed;
+    left:0;
+    top:30% 
+}
+</style>
+<div id="nav">
+<a href="https://clown24.github.io"><strong>Main Page</strong></a>
+<hr />
+    <a href="https://clown24.github.io"><strong>Main Page</strong></a>
+    <hr />
+   <strong>
+   About Mr Clown
+   </strong>
+   <hr />
+  </div>
+<div id="header">
+        <nav>
+          <li class="fork"><a href="https://clown24.github.io/">Main page</a></li>
+          <li class="fork"><a href="https://clown24.github.io/Life-feelings/">Life feelings</a></li>
+       </nav>
+      </div><!-- end header -->
+<h1 style="text-align:center">
+My first two funny games!</h1>
+<a href="snake.html"><img src="snake.jpg"></a>
+<a href="Gobang.html"><img src="Gobang.jpg"></a>
+</body>
