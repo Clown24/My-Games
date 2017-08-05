@@ -1,4 +1,3 @@
-
 <body>
 <style>
 #nav {
@@ -32,7 +31,7 @@
 <div id="header">
         <nav>
           <li class="fork"><a href="https://clown24.github.io/">Main page</a></li>
-          <li class="fork"><a href="https://clown24.github.io/Life-feelings/">Life feelings</a></li>
+            <li class="fork"><a href="https://clown24.github.io/Life-feelings/">Life feelings</a></li>
        </nav>
       </div><!-- end header -->
 <h1 style="text-align:center">
