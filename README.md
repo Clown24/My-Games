@@ -36,6 +36,6 @@
       </div><!-- end header -->
 <h1 style="text-align:center">
 My first two funny games!</h1>
-<a href="snake.html"><img src="snake.jpg"></a>
-<a href="Gobang.html"><img src="Gobang.jpg"></a>
+<a href="snake.html"><img src="snake.png"></a>
+<a href="Gobang.html"><img src="Gobang.png"></a>
 </body>
