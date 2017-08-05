@@ -21,7 +21,7 @@
 <div id="nav">
 <a href="https://clown24.github.io"><strong>Main Page</strong></a>
 <hr />
-    <a href="https://clown24.github.io"><strong>Main Page</strong></a>
+    <a href="https://clown24.github.io/Life-feelings/"><strong>Life feelings</strong></a>
     <hr />
    <strong>
    About Mr Clown
