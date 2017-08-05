@@ -38,7 +38,7 @@
 <h1 style="text-align:center">
 My first two funny games!</h1>
 <a href="snake.html"><img src="snake.png"></a>
-<p text-align="center">Greedy Snake</p>
+<h3 text-align="center">Greedy Snake</h3>
 <a href="Gobang.html"><img src="Gobang.png"></a>
-<p text-align="center">Go Bang</p>
+<h3 text-align="center">Go Bang</h3>
 </body>
